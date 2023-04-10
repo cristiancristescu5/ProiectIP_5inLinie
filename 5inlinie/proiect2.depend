@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638459683 source:c:\users\alexandra\desktop\proiect2\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+
